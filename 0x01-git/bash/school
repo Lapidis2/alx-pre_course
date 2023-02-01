@@ -1,3 +1,6 @@
-#!/bin/bash 
-echo "ALX School is so cool!"
-echo "The School is open!"
+<<<<<<< HEAD
+#!/bin/bash
+echo "School"
+=======
+echo "School"
+echo "The school is open!"
